@@ -1,7 +1,7 @@
 # style_transfer
 
 This is a keras implementation of Style Transfer of images.
-It takes in a list of frames extracted from a video and applies style transfer to it based on the style images provided.
+It takes in a list of frames extracted from a video and applies style transfer to it based on the style images provided. <br />
 style_transfer_keras.ipynb is the jupyter notebook which consists of the code to transfer the styles of the frames of the video.
 
 ## Requirements
