@@ -12,8 +12,7 @@
 3. Total variation loss
 4. Stabilization loss
 
-####References:
-References: 
+#### References:
 [1] Ruder et al. 2016. Artistic Style Transfer for Videos. https://github.com/manuelruder/artistic-videos
 [2] Gatys et al. 2015. A Neural Algorithm of Artistic Style
 [3] Stabilizing neural style-transfer for video. Jeffrey Rainy and Archy de Berker.  https://medium.com/element-ai-research-lab/stabilizing-neural-style-transfer-for-video-62675e203e42
